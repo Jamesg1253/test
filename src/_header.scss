@@ -1,0 +1,20 @@
+body{
+  background: grey
+}
+
+header{
+  background: $black;
+  padding: 1rem 0;
+  box-shadow:0px 0px 20px rgba(0,0,0,0.75);
+
+  .logo{
+    width:150px;
+  }
+
+  .menu{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+  }
+}
+
